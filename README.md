@@ -1,3 +1,1 @@
-# Tech-Blog
-Tech blog is a blogging website which is developed using django framework.
-The code is modularized and optimised using pylint and pep8.
+PyLint-Action is for linting a whole python project and check fot the bugs and all.
